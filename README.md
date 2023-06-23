@@ -53,16 +53,12 @@ The report contains three (3) pages:
 ## Analysis
 ![](report_page.png)
 
-You can interact with the data [here](https://app.powerbi.com/groups/me/reports/de722f57-acae-4389-8751-aef3df59af8c/ReportSection?experience=power-bi)
-
 
 ![](Correlation_map_page.png)
 
 ### Features:
 - The scatter plots represent each country's happiness score on the GDP scale. Lower GDP countries below the Average GDP per Capita represent a proportional happiness score, and vice-versa.
 - The map shows the interactivity between the scatter plots, as well as countries selected on the slicer
-
-Again, you can interact with the data [here](https://app.powerbi.com/groups/me/reports/de722f57-acae-4389-8751-aef3df59af8c/ReportSection?experience=power-bi)
 
 ## Conclusion
 - The World Happiness Report ranks 155 countries on a scale of 0 to 10, based on how happy their citizens report being.
