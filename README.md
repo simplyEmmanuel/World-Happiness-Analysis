@@ -16,6 +16,7 @@ This repository contains data on the **World Happiness Report 2017,** which rank
 
 ## Objective
 We will analyze a large dataset of 155 countries' data to discover insights that will help us make data-driven decisions about why social-economic factors play a vital role in determining the world's happiness score and rank. 
+
 _Disclaimer: All datasets and reports do not represent any institution or country, but a personal project to demonstrate capabilities of using Power BI for data visualization._ 
 
 ## Problem Statement
@@ -37,7 +38,7 @@ The following Power BI features were incorporated:
 - Reporting
 
 ## Data Modelling
-The data represents a single year of data which automatically derived a relationship. However, a custom column was created to have a separate table - **CountryRanks** for the purpose of the analysis. 
+The data represents a single year of data which automatically derived a relationship. However, a custom column was created to have a separate table - **CountryRanks** for the analysis. 
 
 ![](data_model.png)
 
