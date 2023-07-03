@@ -53,10 +53,12 @@ The report contains three (3) pages:
 
 ## Analysis
 ![](report_page.png)
+Report Page
 
 ##
 
 ![](Correlation_map_page.png)
+Correlation map
 
 ### Features:
 - The scatter plots represent each country's happiness score on the GDP scale. Lower GDP countries below the Average GDP per Capita represent a proportional happiness score, and vice-versa.
